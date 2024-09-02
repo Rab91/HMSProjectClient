@@ -1,1 +1,1 @@
-export const BASE_URL = "https://hmsproject-pf41.onrender.com"
+export const BASE_URL = "https://hmsprojectserver.onrender.com"
